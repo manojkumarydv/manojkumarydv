@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E12AQHJ33Vk3PBm5A/article-cover_image-shrink_600_2000/0/1679499121542?e=2147483647&v=beta&t=Fy41uyTz_qPjfEOPNohY8QAaRbxBMBwdK-hPDS_j60g)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
 <h3 align="center">💻 Full Stack Developer | MERN Stack Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
