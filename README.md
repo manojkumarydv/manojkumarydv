@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Backend Development**
 
-- 📫 How to reach me **manoj127988@gmail.com**
+- 📫 How to reach me **manojky7988@gmail.com**
 
 - ⚡ Fun fact **The term "bug" in coding originated in 1947 when a real moth caused a malfunction in an early computer!**
 
