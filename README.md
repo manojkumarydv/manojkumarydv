@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
 
 
-<h3 align="center">💻 Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">💻 Backend Developer | MERN Stack Enthusiast</h3>
 
 
 
