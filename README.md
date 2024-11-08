@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **Amazon AWS**
+- 🌱 I’m currently learning **Microservices**
 
 - 💬 Ask me about **MERN Stack Development**
 
